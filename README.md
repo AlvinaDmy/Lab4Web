@@ -28,7 +28,9 @@ Langkah awal adalah menyiapkan file utama (index.php) yang berisi routing untuk 
 halaman. 
 
 Contohnya:
+
 • Halaman Home ( http://localhost/lab4_php_modular/index.php?mod=home )
+
 • Halaman About ( http://localhost/lab4_php_modular/index.php?mod=about )
 
 ## 5. Membuat file baru dengan nama index.php
@@ -58,7 +60,9 @@ Aktifkan LoadModule mod_rewrite dengan cara melakukan un-comment pada baris ters
 ![img 9](img/9.png)
 
 Cara aksesnya menjadi:
+
 • Halaman Home ( http://localhost/lab4_php_modular/home )
+
 • Halaman About ( http://localhost/lab4_php_modular/about )
 
 Dan Hasil Outputnya yaitu:
